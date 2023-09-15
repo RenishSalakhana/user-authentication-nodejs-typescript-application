@@ -24,7 +24,5 @@ A complete backend development application for authentication using typescript, 
 
 > Having trouble with repo? Check out our documentation or contact Support renishsalakhana@gmail.com
 
-## :page_facing_up: License
 
-This project is licensed under the Apache License 2.0, see the [LICENSE](LICENSE) file for details.
 
